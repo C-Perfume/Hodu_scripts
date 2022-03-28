@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f62d594b3bae7914580c4c3c4dd8527e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gong Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f4acf08deef2e924c9f2118de0d90445, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
